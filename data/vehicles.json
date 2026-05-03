@@ -1,0 +1,47 @@
+[
+  {
+    "id": "veh-001", "slug": "pegassi-infernus", "name": "Pegassi Infernus", "type": "vehicle",
+    "category": "Super", "tags": ["supercar", "fast", "iconic"],
+    "featuredImage": "/images/database/infernus.webp",
+    "summary": "The iconic Vice City supercar returns with a modern V12 engine and aggressive styling inspired by Italian exotics.",
+    "stats": { "speed": 95, "acceleration": 88, "handling": 78, "braking": 80 },
+    "unlockCondition": "Available at launch", "dateUpdated": "2026-04-15T10:00:00Z",
+    "relatedSlugs": ["gta-6-vehicle-list-leaked"]
+  },
+  {
+    "id": "veh-002", "slug": "bravado-gauntlet", "name": "Bravado Gauntlet", "type": "vehicle",
+    "category": "Muscle", "tags": ["muscle", "american", "customizable"],
+    "featuredImage": "/images/database/gauntlet.webp",
+    "summary": "A classic American muscle car with a thunderous V8 and extensive customization options at Los Santos Customs.",
+    "stats": { "speed": 78, "acceleration": 82, "handling": 65, "braking": 60 },
+    "unlockCondition": "Complete 'First Ride' mission", "dateUpdated": "2026-04-10T10:00:00Z",
+    "relatedSlugs": []
+  },
+  {
+    "id": "veh-003", "slug": "shitzu-hakuchou", "name": "Shitzu Hakuchou", "type": "vehicle",
+    "category": "Motorcycle", "tags": ["motorcycle", "speed", "sport"],
+    "featuredImage": "/images/database/hakuchou.webp",
+    "summary": "A high-performance Japanese superbike capable of weaving through Vice City traffic at breakneck speeds.",
+    "stats": { "speed": 92, "acceleration": 95, "handling": 85, "braking": 70 },
+    "unlockCondition": "Available at launch", "dateUpdated": "2026-04-08T10:00:00Z",
+    "relatedSlugs": []
+  },
+  {
+    "id": "veh-004", "slug": "lampadati-corsica", "name": "Lampadati Corsica", "type": "vehicle",
+    "category": "Sports", "tags": ["sports", "italian", "convertible"],
+    "featuredImage": "/images/database/corsica.webp",
+    "summary": "A sleek Italian sports convertible perfect for cruising Ocean Beach at sunset. Balanced performance across all metrics.",
+    "stats": { "speed": 85, "acceleration": 80, "handling": 82, "braking": 75 },
+    "unlockCondition": "Purchase from Premium Deluxe Motorsport", "dateUpdated": "2026-04-05T10:00:00Z",
+    "relatedSlugs": ["ocean-beach"]
+  },
+  {
+    "id": "veh-005", "slug": "buckingham-luxor", "name": "Buckingham Luxor Deluxe", "type": "vehicle",
+    "category": "Aircraft", "tags": ["plane", "luxury", "travel"],
+    "featuredImage": "/images/database/luxor.webp",
+    "summary": "The ultimate status symbol — a gold-plated private jet for traversing the Leonida skies in unmatched luxury.",
+    "stats": { "speed": 90, "acceleration": 60, "handling": 55, "braking": 50, "capacity": 4 },
+    "unlockCondition": "Purchase for $10,000,000", "dateUpdated": "2026-04-01T10:00:00Z",
+    "relatedSlugs": ["everglades-airstrip"]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "col-001", "slug": "hidden-package-01", "name": "Hidden Package #1", "type": "collectible",
+    "category": "Hidden Package", "tags": ["hidden-package", "beach", "easy"],
+    "featuredImage": "/images/database/hidden-pkg.webp",
+    "summary": "Found under the Ocean Beach pier. Swim beneath the wooden planks to find this glowing package.",
+    "stats": { "location": "Ocean Beach Pier", "difficulty": "Easy", "reward": "$1,000" },
+    "dateUpdated": "2026-04-15T10:00:00Z",
+    "relatedSlugs": ["ocean-beach", "all-collectibles-locations"]
+  },
+  {
+    "id": "col-002", "slug": "hidden-package-02", "name": "Hidden Package #2", "type": "collectible",
+    "category": "Hidden Package", "tags": ["hidden-package", "rooftop", "medium"],
+    "featuredImage": "/images/database/hidden-pkg-2.webp",
+    "summary": "Located on the rooftop of the abandoned hotel in Little Havana. Use the fire escape ladder to access it.",
+    "stats": { "location": "Little Havana Hotel", "difficulty": "Medium", "reward": "$1,000" },
+    "dateUpdated": "2026-04-12T10:00:00Z",
+    "relatedSlugs": ["little-havana", "all-collectibles-locations"]
+  },
+  {
+    "id": "col-003", "slug": "action-figure-01", "name": "Action Figure #1 — Impotent Rage", "type": "collectible",
+    "category": "Action Figure", "tags": ["action-figure", "interior", "reference"],
+    "featuredImage": "/images/database/action-figure.webp",
+    "summary": "A tiny Impotent Rage figurine hidden inside the comic book store on Washington Avenue. Check behind the counter.",
+    "stats": { "location": "Washington Ave Comic Store", "difficulty": "Easy", "reward": "Achievement Progress" },
+    "dateUpdated": "2026-04-10T10:00:00Z",
+    "relatedSlugs": ["all-collectibles-locations"]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "mis-001", "slug": "the-introduction", "name": "The Introduction", "type": "mission",
+    "category": "Story", "tags": ["prologue", "story", "tutorial"],
+    "featuredImage": "/images/database/introduction.webp",
+    "summary": "The opening mission that introduces Lucia and Jason as they plan their escape from a botched robbery in rural Leonida.",
+    "stats": { "difficulty": "Easy", "length": "25 min", "reward": "$5,000", "act": "Prologue" },
+    "unlockCondition": "Start of game", "dateUpdated": "2026-04-15T10:00:00Z",
+    "relatedSlugs": ["lucia-protagonist", "jason-protagonist"]
+  },
+  {
+    "id": "mis-002", "slug": "ocean-drive-heist", "name": "Ocean Drive Heist", "type": "mission",
+    "category": "Heist", "tags": ["heist", "action", "robbery"],
+    "featuredImage": "/images/database/ocean-heist.webp",
+    "summary": "Rob the Ocean Drive jewelry store in a high-octane heist that introduces the new multi-phase heist mechanics.",
+    "stats": { "difficulty": "Medium", "length": "40 min", "reward": "$50,000", "act": "Act 1" },
+    "unlockCondition": "Complete 'Setting Up Shop'", "dateUpdated": "2026-04-10T10:00:00Z",
+    "relatedSlugs": ["ocean-beach"]
+  },
+  {
+    "id": "mis-003", "slug": "the-port-job", "name": "The Port Job", "type": "mission",
+    "category": "Heist", "tags": ["heist", "stealth", "port"],
+    "featuredImage": "/images/database/port-job.webp",
+    "summary": "Infiltrate Vice City's shipping port to intercept a cargo container filled with contraband. Stealth or assault approach.",
+    "stats": { "difficulty": "Hard", "length": "55 min", "reward": "$150,000", "act": "Act 2" },
+    "unlockCondition": "Complete 'Power Play'", "dateUpdated": "2026-04-05T10:00:00Z",
+    "relatedSlugs": ["cal-henderson"]
+  }
+]

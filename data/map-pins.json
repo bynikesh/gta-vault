@@ -1,0 +1,86 @@
+[
+  {
+    "id": "pin-001",
+    "slug": "ocean-beach",
+    "name": "Ocean Beach",
+    "category": "poi",
+    "lat": 25.77,
+    "lng": -80.13,
+    "description": "The iconic beachfront district of Vice City, featuring luxury hotels, nightclubs, and stunning ocean views. A hub for early-game missions and activities.",
+    "tags": ["beach", "nightlife", "missions"],
+    "featuredImage": "/images/map/ocean-beach.webp",
+    "relatedSlugs": ["beginners-guide-to-vice-city"]
+  },
+  {
+    "id": "pin-002",
+    "slug": "little-havana",
+    "name": "Little Havana",
+    "category": "mission",
+    "lat": 25.765,
+    "lng": -80.22,
+    "description": "A vibrant cultural district with Latin-inspired architecture, street food vendors, and underground fight clubs. Key location for story missions.",
+    "tags": ["culture", "missions", "story"],
+    "featuredImage": "/images/map/little-havana.webp",
+    "relatedSlugs": ["vice-city-map-breakdown"]
+  },
+  {
+    "id": "pin-003",
+    "slug": "star-island-safehouse",
+    "name": "Star Island Safehouse",
+    "category": "safehouse",
+    "lat": 25.78,
+    "lng": -80.17,
+    "description": "An exclusive island residence available for purchase mid-game. Features a private dock, helipad, and underground garage with space for 20 vehicles.",
+    "tags": ["safehouse", "property", "luxury"],
+    "featuredImage": "/images/map/star-island.webp",
+    "relatedSlugs": ["best-money-making-methods"]
+  },
+  {
+    "id": "pin-004",
+    "slug": "nightclub-business",
+    "name": "Malibu Nightclub",
+    "category": "business",
+    "lat": 25.775,
+    "lng": -80.19,
+    "description": "A purchasable nightclub business in downtown Vice City. Generates passive income and serves as a front for illicit operations.",
+    "tags": ["business", "income", "nightlife"],
+    "featuredImage": "/images/map/nightclub.webp",
+    "relatedSlugs": ["best-money-making-methods"]
+  },
+  {
+    "id": "pin-005",
+    "slug": "hidden-package-01",
+    "name": "Hidden Package #1 — Pier",
+    "category": "collectible",
+    "lat": 25.772,
+    "lng": -80.128,
+    "description": "Located under the Ocean Beach pier, accessible by swimming or using a boat. The first of 50 hidden packages scattered across Vice City.",
+    "tags": ["collectible", "hidden-package", "beach"],
+    "featuredImage": "/images/map/hidden-package.webp",
+    "relatedSlugs": ["all-collectibles-locations"]
+  },
+  {
+    "id": "pin-006",
+    "slug": "diamond-casino",
+    "name": "The Diamond Casino & Resort",
+    "category": "business",
+    "lat": 25.785,
+    "lng": -80.15,
+    "description": "Vice City's premier entertainment venue. Home to the Diamond Casino Heist, one of the most lucrative activities in the game.",
+    "tags": ["casino", "heist", "entertainment"],
+    "featuredImage": "/images/map/casino.webp",
+    "relatedSlugs": ["best-money-making-methods"]
+  },
+  {
+    "id": "pin-007",
+    "slug": "everglades-airstrip",
+    "name": "Everglades Airstrip",
+    "category": "mission",
+    "lat": 25.75,
+    "lng": -80.30,
+    "description": "A remote airstrip in the Everglades used for smuggling missions. Access to planes and helicopters once unlocked.",
+    "tags": ["aircraft", "smuggling", "wilderness"],
+    "featuredImage": "/images/map/airstrip.webp",
+    "relatedSlugs": []
+  }
+]

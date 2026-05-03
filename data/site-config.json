@@ -1,0 +1,14 @@
+{
+  "siteName": "The GTA Vault",
+  "siteUrl": "https://thegtavault.com",
+  "siteDescription": "Your ultimate GTA 6 utility hub — news, interactive map, vehicle database, mission guides, and more for Leonida and Vice City.",
+  "launchDate": "2026-11-16T00:00:00Z",
+  "socialLinks": {
+    "twitter": "https://twitter.com/thegtavault",
+    "youtube": "https://youtube.com/@thegtavault",
+    "discord": "https://discord.gg/thegtavault",
+    "instagram": "https://instagram.com/thegtavault"
+  },
+  "contactEmail": "contact@thegtavault.com",
+  "defaultOgImage": "/images/og/og-default.webp"
+}

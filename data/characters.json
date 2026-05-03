@@ -1,0 +1,38 @@
+[
+  {
+    "id": "char-001", "slug": "lucia-protagonist", "name": "Lucia", "type": "character",
+    "category": "Protagonist", "tags": ["protagonist", "main", "playable"],
+    "featuredImage": "/images/database/lucia.webp",
+    "summary": "The first female protagonist in GTA history. A determined woman navigating Vice City's criminal underworld with intelligence and grit.",
+    "stats": { "role": "Protagonist", "age": "Late 20s", "origin": "Leonida" },
+    "dateUpdated": "2026-04-15T10:00:00Z",
+    "relatedSlugs": ["beginners-guide-to-vice-city"]
+  },
+  {
+    "id": "char-002", "slug": "jason-protagonist", "name": "Jason", "type": "character",
+    "category": "Protagonist", "tags": ["protagonist", "main", "playable"],
+    "featuredImage": "/images/database/jason.webp",
+    "summary": "Lucia's partner in crime. A charismatic and unpredictable man with a talent for high-stakes heists and fast getaways.",
+    "stats": { "role": "Protagonist", "age": "Early 30s", "origin": "Vice City" },
+    "dateUpdated": "2026-04-15T10:00:00Z",
+    "relatedSlugs": ["beginners-guide-to-vice-city"]
+  },
+  {
+    "id": "char-003", "slug": "cal-henderson", "name": "Cal Henderson", "type": "character",
+    "category": "Antagonist", "tags": ["antagonist", "villain", "crime-lord"],
+    "featuredImage": "/images/database/cal.webp",
+    "summary": "The ruthless kingpin of Vice City's drug trade. Cal controls the port and most of the city's illicit operations from his Star Island mansion.",
+    "stats": { "role": "Main Antagonist", "affiliation": "Henderson Cartel", "threat": "Extreme" },
+    "dateUpdated": "2026-04-10T10:00:00Z",
+    "relatedSlugs": ["star-island-safehouse"]
+  },
+  {
+    "id": "char-004", "slug": "dre-williams", "name": "Dre Williams", "type": "character",
+    "category": "Ally", "tags": ["ally", "hacker", "support"],
+    "featuredImage": "/images/database/dre.webp",
+    "summary": "A tech-savvy hacker who serves as the crew's intelligence expert. Dre provides mission intel and hacks security systems during heists.",
+    "stats": { "role": "Support", "specialty": "Hacking", "availability": "Act 2+" },
+    "dateUpdated": "2026-04-05T10:00:00Z",
+    "relatedSlugs": ["heist-challenge-season-1"]
+  }
+]

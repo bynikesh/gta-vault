@@ -1,0 +1,53 @@
+[
+  {
+    "id": "event-001",
+    "slug": "gta-6-launch-party",
+    "type": "event",
+    "title": "GTA 6 Global Launch Party",
+    "summary": "Join millions of players worldwide for the official GTA 6 launch celebration with exclusive in-game events.",
+    "tags": ["launch", "celebration", "global"],
+    "category": "official",
+    "datePublished": "2026-04-20T10:00:00Z",
+    "dateUpdated": "2026-04-20T10:00:00Z",
+    "featuredImage": "/images/events/launch-party.png",
+    "startDate": "2026-05-26T00:00:00Z",
+    "endDate": "2026-06-02T23:59:00Z",
+    "location": "Vice City — Online & In-Game",
+    "isLive": false,
+    "relatedSlugs": ["gta-6-official-release-date-confirmed"]
+  },
+  {
+    "id": "event-002",
+    "slug": "vice-city-race-week",
+    "type": "event",
+    "title": "Vice City Race Week",
+    "summary": "A week-long racing event across Vice City's most iconic streets with exclusive vehicle rewards.",
+    "tags": ["racing", "vehicles", "competition"],
+    "category": "in-game",
+    "datePublished": "2026-04-18T12:00:00Z",
+    "dateUpdated": "2026-04-18T12:00:00Z",
+    "featuredImage": "/images/events/race-week.png",
+    "startDate": "2026-06-03T00:00:00Z",
+    "endDate": "2026-06-10T23:59:00Z",
+    "location": "Vice City Streets",
+    "isLive": false,
+    "relatedSlugs": ["pegassi-infernus"]
+  },
+  {
+    "id": "event-003",
+    "slug": "heist-challenge-season-1",
+    "type": "event",
+    "title": "Heist Challenge: Season 1",
+    "summary": "Compete in the first season of coordinated heist challenges for massive GTA$ payouts and exclusive gear.",
+    "tags": ["heist", "challenge", "season"],
+    "category": "competitive",
+    "datePublished": "2026-04-10T09:00:00Z",
+    "dateUpdated": "2026-04-10T09:00:00Z",
+    "featuredImage": "/images/events/heist-challenge.png",
+    "startDate": "2026-06-15T00:00:00Z",
+    "endDate": "2026-07-15T23:59:00Z",
+    "location": "Vice City — Online",
+    "isLive": false,
+    "relatedSlugs": []
+  }
+]

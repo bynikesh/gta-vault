@@ -1,0 +1,53 @@
+[
+  {
+    "id": "guide-001",
+    "slug": "beginners-guide-to-vice-city",
+    "type": "guide",
+    "title": "Beginner's Guide to Vice City",
+    "summary": "Everything new players need to know before stepping into GTA 6's Vice City — controls, mechanics, and first missions.",
+    "content": "<h2>Welcome to Vice City</h2><p>GTA 6 drops you into the sun-soaked streets of Vice City with little hand-holding. This guide covers the essential mechanics, early missions, and tips to get you started on the right foot.</p><h2>Basic Controls</h2><p>Movement and combat controls have been significantly updated from GTA 5. The new cover system is more fluid, and melee combat now features a combo system.</p><h2>Your First Hour</h2><p>Focus on completing the prologue missions to unlock free roam. Visit the safehouse to save your progress and customize your loadout.</p>",
+    "tags": ["beginner", "tips", "walkthrough"],
+    "category": "walkthrough",
+    "difficulty": "beginner",
+    "estimatedTime": "15 min read",
+    "datePublished": "2026-04-20T10:00:00Z",
+    "dateUpdated": "2026-04-22T08:00:00Z",
+    "featuredImage": "/images/guides/beginners-guide.png",
+    "author": "The GTA Vault",
+    "relatedSlugs": ["lucia-protagonist", "ocean-beach"]
+  },
+  {
+    "id": "guide-002",
+    "slug": "best-money-making-methods",
+    "type": "guide",
+    "title": "Best Money-Making Methods in GTA 6",
+    "summary": "Maximize your GTA$ earnings with these proven strategies — from heists to businesses to stock market plays.",
+    "content": "<h2>Top Earning Methods</h2><p>Making money in GTA 6 is all about diversifying your income streams. Here are the top methods ranked by earnings per hour.</p><h2>1. The Diamond Casino Heist</h2><p>The highest-paying single activity in the game, netting up to $2.5M per successful run with a skilled crew.</p><h2>2. Business Empire</h2><p>Invest in nightclubs, car dealerships, and restaurants. Passive income stacks up quickly once you own multiple properties.</p>",
+    "tags": ["money", "earning", "tips", "strategy"],
+    "category": "strategy",
+    "difficulty": "intermediate",
+    "estimatedTime": "10 min read",
+    "datePublished": "2026-04-18T14:00:00Z",
+    "dateUpdated": "2026-04-18T14:00:00Z",
+    "featuredImage": "/images/guides/money-making.png",
+    "author": "The GTA Vault",
+    "relatedSlugs": ["nightclub-business", "diamond-casino"]
+  },
+  {
+    "id": "guide-003",
+    "slug": "all-collectibles-locations",
+    "type": "guide",
+    "title": "All Collectible Locations in GTA 6",
+    "summary": "Complete map of every hidden package, action figure, and secret collectible across Vice City and Leonida.",
+    "content": "<h2>Collectible Overview</h2><p>GTA 6 features over 200 collectibles spread across Vice City and the surrounding Leonida countryside. Finding them all unlocks exclusive rewards and achievements.</p><h2>Hidden Packages (50)</h2><p>A callback to the original Vice City, hidden packages are scattered across rooftops, underwater locations, and hard-to-reach areas.</p><h2>Action Figures (30)</h2><p>Small figurines based on in-game characters, hidden throughout interiors and outdoor locations.</p>",
+    "tags": ["collectibles", "100-percent", "map", "locations"],
+    "category": "collectibles",
+    "difficulty": "advanced",
+    "estimatedTime": "25 min read",
+    "datePublished": "2026-04-15T10:00:00Z",
+    "dateUpdated": "2026-04-20T16:00:00Z",
+    "featuredImage": "/images/guides/collectibles.png",
+    "author": "The GTA Vault",
+    "relatedSlugs": ["hidden-package-01", "hidden-package-02"]
+  }
+]

@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://thegtavault.com
+
+# Sitemaps
+Sitemap: https://thegtavault.com/sitemap.xml
